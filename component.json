@@ -1,0 +1,10 @@
+{
+    "name": "object-inspect",
+    "description": "string representations of objects in node and the browser",
+    "repos": "https://github.com/substack/object-inspect.git",
+    "main": "index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "1.0.2"
+}
